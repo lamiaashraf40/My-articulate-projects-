@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Kickpatrick Model" />
+              <option name="title_text" value="1st AI project" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1555,9 +1555,13 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5jB5VIpp7en" displaytext="click and reveal interaction" expand="true" type="slide">
+        <slidelink slideid="_player.6Nw199h6juX" displaytext="camping trip " expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5jB5VIpp7en.6SjZHOf4Fea" displaytext="kickpatrick model" expand="false" type="slide" />
+            <slidelink slideid="_player.6Nw199h6juX.5smJxtk3hRx" displaytext="introduction " expand="false" type="slide" />
+            <slidelink slideid="_player.6Nw199h6juX.5WaK4yKvREu" displaytext="camping essentials" expand="false" type="slide" />
+            <slidelink slideid="_player.6Nw199h6juX.6m5KFhPpjRX" displaytext="READY ?" expand="false" type="slide" />
+            <slidelink slideid="_player.6Nw199h6juX.6U2rgoyCQT1" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6Nw199h6juX.6BnK5bZ9l0p" displaytext="Summary" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
